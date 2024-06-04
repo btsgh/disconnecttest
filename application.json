@@ -13,6 +13,10 @@
   "icon": "chat",
   "pages": [
     {
+      "id": "Time Log",
+      "isDefault": false
+    },
+    {
       "id": "Page1",
       "isDefault": true
     }
